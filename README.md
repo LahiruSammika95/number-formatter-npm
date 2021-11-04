@@ -51,3 +51,4 @@ To format numbers in currency order such as 100.00
 
 numberFormatter({number:5546.886, format:'currency'})  
 output=> 5,546.89
+
